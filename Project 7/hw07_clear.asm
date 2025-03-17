@@ -1,4 +1,3 @@
-; File name:   hw07.asm
 ; Author:      
 ; Description: short code fragments for homework 07
 

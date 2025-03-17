@@ -1,5 +1,4 @@
-; File name:   hw07.asm
-; Author:      
+; Author:  WillDaru22 
 ; Description: short code fragments for homework 07
 
 	.ORIG x0200
